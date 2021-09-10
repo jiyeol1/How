@@ -1,0 +1,5 @@
+﻿  dis.c
+C:\Users\moble\source\repos\team\team\diss.h(10,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\moble\source\repos\team\team\suprise.h(9,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\moble\source\repos\team\team\rand_d.h(9,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  team.vcxproj -> C:\Users\moble\source\repos\team\Debug\team.exe
